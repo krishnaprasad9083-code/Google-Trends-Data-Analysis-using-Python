@@ -1,1 +1,1 @@
-# Google-Trends-Data-Analysis-using-Python
+# Google Trends Data Analysis using Python
